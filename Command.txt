@@ -1,0 +1,4 @@
+docker -v
+docker run hello-world
+docker run busybox ping google.com
+docker stop b9d4addc71fd
